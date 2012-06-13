@@ -1,0 +1,3 @@
+test other comps
+
+ok test is good
